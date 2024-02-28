@@ -429,15 +429,6 @@ img {
   padding: 100px 0;
 }
 
-.footer-text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #f4f4fd;
-  background: #2e2f42;
-  max-width: 264px;
-  margin-bottom: 16px;
- }
 
 .footer-logo {
   display: block;
@@ -455,6 +446,15 @@ img {
   max-width: 115px;
   display: inline-block;
   
+}
+.footer-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+  background: #2e2f42;
+  max-width: 264px;
+  margin-bottom: 16px;
 }
 
 .footer-logo-span {
